@@ -1,0 +1,81 @@
+-----Part 1-----
+1) 
+IN: fqjcb rwjwj vnjax bnkhj whxcq nawjv nfxdu mbvnu ujbbf nnc
+OUT: whats inana mearo sebya nyoth ernam ewoul dsmel lassw eet
+
+2) 
+IN: oczmz vmzor jocdi bnojv dhvod igdaz admno ojbzo rcvot jprvi oviyv 
+	aozmo cvooj ziejt dojig toczr dnzno jahvi fdiyv xcdzq zoczn zxjiy
+	
+OUT: there aretw othin gstoa imati nlife first toget whaty ouwan tanda 
+	 ftert hatto enjoy itonl ythew isest ofman kinda chiev ethes econd 
+
+3) 
+IN: ejitp spawa qleji taiul rtwll rflrl laoat wsqqj atgac kthls iraoa 
+	twlpl qjatw jufrh lhuts qataq itats aittk stqfj cae
+	
+OUT: dnotu suere iadno teoma htraa hlaha aeget rsiin etyew ftcas ohege 
+	 traua inetr nmlhc acmts ietei otets eottf stiln wed
+
+4) 
+IN: iyhqz ewqin azqej shayz niqbe aheum hnmnj jaqii yuexq ayqkn jbeuq 
+	iihed yzhni ifnun sayiz yudhe sqshu qesqa iluym qkque aqaqm oejjs 
+	hqzyu jdzqa diesh niznj jayzy uiqhq vayzq shsnj jejjz nshna hnmyt 
+	isnae sqfun dqzew qiead zevqi zhnjq shqze udqai jrmtq uishq ifnun 
+	siiqa suoij qqfni syyle iszhn bhmei squih nimnx hsead shqmr udquq 
+	uaqeu iisqe jshnj oihyy snaxs hqihe lsilu ymhni tyz
+	
+OUT: trael njeti hlend oahrl itefn hansc aicid dhett rsnpe hrebi dfnse 
+	 ttanu rlait tmisi ohrtl rsuan oeoas enoeh twsrc ebesn hehec gnddo 
+	 aelrs duleh utnoa itlid dhrlr steae khrle oaoid dnddl ioaih aicry 
+	 toihn oemsi uelnj etnhu lnket laide oaeln sueht dvcye stoae tmisi 
+	 otteh osgtd eemit orrwn tolai facnt oesta itcip aonhu oaecv suese 
+	 shens ttoen doaid gtarr oihpo aetan wotws rcait yrl
+
+-----Part 2-----
+1)
+IN: He who fights with monsters should look to it that he himself does not 
+	become a monster. And if you gaze long into an abyss, the abyss also 
+	gazes into you.
+	
+KEY:3
+
+OUT: kh zkr iljkwv zlwk prqvwhuv vkrxog orrn wr lw wkdw kh klpvhoi grhv qrw 
+	 ehfrph d prqvwhu. dqg li brx jdch orqj lqwr dq debvv, wkh debvv dovr 
+	 jdchv lqwr brx. 
+
+2)
+IN: There is a theory which states that if ever anybody discovers exactly
+	what the Universe is for and why it is here, it will instantly 
+	disappear and be replaced by something even more bizarre and 
+	inexplicable. There is another theory which states that this has 
+	already happened.
+
+KEY:11
+
+OUT: espcp td l espzcj hstns delepd esle tq pgpc lyjmzoj otdnzgpcd pilnewj 
+	 hsle esp fytgpcdp td qzc lyo hsj te td spcp, te htww tydelyewj 
+	 otdlaaplc lyo mp cpawlnpo mj dzxpestyr pgpy xzcp mtklccp lyo 
+	 typiawtnlmwp. espcp td lyzespc espzcj hstns delepd esle estd sld 
+	 lwcploj slaapypo. 
+
+3)
+IN: Whenever I find myself growing grim about the mouth; whenever it is a 
+	damp, drizzly November in my soul; whenever I find myself 
+	involuntarily pausing before coffin warehouses, and bringing up the
+	rear of every funeral I meet; and especially whenever my hypos get 
+	such an upper hand of me, that it requires a strong moral prnciple to
+	prevent me from deliberately stepping into the street, and 
+	methodically knocking people's hats off - then, I account it high time
+	to get to sea as soon as I can.
+
+KEY:25
+
+OUT: vgdmdudq h ehmc lxrdke fqnvhmf fqhl zants sgd lntsg; vgdmdudq hs hr z 
+	 czlo, cqhyykx mnudladq hm lx rntk; vgdmdudq h ehmc lxrdke 
+	 hmunktmszqhkx oztrhmf adenqd bneehm vzqdgntrdr, zmc aqhmfhmf to sgd 
+	 qdzq ne dudqx etmdqzk h ldds; zmc drodbhzkkx vgdmdudq lx gxonr fds 
+	 rtbg zm toodq gzmc ne ld, sgzs hs qdpthqdr z rsqnmf lnqzk oqmbhokd sn 
+	 oqdudms ld eqnl cdkhadqzsdkx rsdoohmf hmsn sgd rsqdds, zmc 
+	 ldsgnchbzkkx jmnbjhmf odnokd'r gzsr nee - sgdm, h zbbntms hs ghfg shld 
+	 sn fds sn rdz zr rnnm zr h bzm. 
